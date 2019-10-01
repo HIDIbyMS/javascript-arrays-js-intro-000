@@ -28,7 +28,7 @@ function accessElementInArray(array, index) {
   return (array[3]);
 }
 
-
+expect(accessElementInArray([1, 2, 3], 2)).to.equal(3)
 
 // REMOVE FROM BEGINNING
 
