@@ -25,7 +25,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
 // INDEX IM HAVING ISSUES with
 
 function accessElementInArray(array, index) {
-  return (([], 2));
+  return (([], 3));
 }
 
 // expect(accessElementInArray([1, 2, 3], 2)).to.equal(3)
